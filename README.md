@@ -2,6 +2,8 @@
 
 This is a Streamlit-based web application that automates the process of Exploratory Data Analysis. The app provides an interactive interface for users to upload their datasets and perform comprehensive data analysis without writing any code.
 
+## Live demo click - https://eda-dashboard-app-app-curious-avi-8fsyyappqcc8zfp3po9mjp9.streamlit.app/
+
 ## 🌟 Features
 
 - **File Upload Support**: 
