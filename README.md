@@ -2,6 +2,8 @@
 
 ## Live demo click - https://edaautomationapppy-aihts2n7y6f4uaezpszkps.streamlit.app/
 
+![](app_view.png)
+
 This is a Streamlit-based web application that automates the process of Exploratory Data Analysis. The app provides an interactive interface for users to upload their datasets and perform comprehensive data analysis without writing any code.
 
 ## 🌟 Features
